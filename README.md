@@ -1,2 +1,4 @@
 # 04-Banco-Dados
-Codigos da disciplina de Estrutura de Dados e Algoritmos, do 4° Período.
+git add .
+git commit -m "Mensagem"
+git push origin main
